@@ -17,7 +17,7 @@ I am keen to gain more experience in the field. For this reason, I am looking fo
 ### Experience
 - [Rambe](https://fursaleksey.github.io/Ramble/)
 - [GhostHost](https://fursaleksey.github.io/2018Q3-Markup-1/)
-- [Game](https://fursaleksey.github.io/2018Q3-Markup-1/)
+- [Game](https://fursaleksey.github.io/game/)
 
 
 ### Education
