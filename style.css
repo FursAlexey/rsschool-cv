@@ -9,7 +9,7 @@ body {
   display: flex;
   justify-content: space-between;
   width: 95%;
-  margin-top: 2rem;
+  margin: 2rem 0;
   border: 1px solid #dfdfdf;
 }
 
@@ -68,7 +68,7 @@ ul {
 }
 
 li {
-  width: 10rem;
+  width: 30rem;
   height: 3rem;
 }
 
