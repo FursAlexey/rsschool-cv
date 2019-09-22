@@ -56,7 +56,11 @@ td {
 
 a {
   text-decoration: none;
-  color: black;
+  color: lightblue;
+}
+
+a:hover {
+  color: blue;
 }
 
 ul {
